@@ -1,0 +1,8 @@
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\obj\Debug\SkllboxHomework7.csproj.AssemblyReference.cache
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\obj\Debug\SkllboxHomework7.csproj.SuggestedBindingRedirects.cache
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\obj\Debug\SkllboxHomework7.csproj.CoreCompileInputs.cache
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\bin\Debug\SkllboxHomework7.exe.config
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\bin\Debug\SkllboxHomework7.exe
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\bin\Debug\SkllboxHomework7.pdb
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\obj\Debug\SkllboxHomework7.exe
+C:\Skillbox\MyHomeworks\SkllboxHomework7\SkllboxHomework7\obj\Debug\SkllboxHomework7.pdb

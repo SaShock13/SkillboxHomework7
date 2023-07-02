@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkllboxHomework7", "SkllboxHomework7\SkllboxHomework7.csproj", "{0AC396E5-12D7-4AF1-9EAE-6C7D64183865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC396E5-12D7-4AF1-9EAE-6C7D64183865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC396E5-12D7-4AF1-9EAE-6C7D64183865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC396E5-12D7-4AF1-9EAE-6C7D64183865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC396E5-12D7-4AF1-9EAE-6C7D64183865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D4D928E-6A8B-4BC8-95F6-4FE150797F78}
+	EndGlobalSection
+EndGlobal
